@@ -22,7 +22,7 @@ This project introduces a Student Course Management System crafted in EMU 8086 a
 
 1) Install EMU 8086 in the laptop/PC.
   
-2) Download the zip file of asm version of the project.
+2) Download the zip file of asm format of the project file.
 
 3) Open the asm file in EMU 8086 and click on the emulate option, after the assembler process the code click on the run option.
 
