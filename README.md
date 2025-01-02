@@ -27,7 +27,7 @@ This project introduces a Student Course Management System crafted in EMU 8086 a
 3) Open the asm file in EMU 8086 and click on the emulate option, after the assembler process the code click on the run option.
 
 ## Contributors
-[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | 
+[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [cephalocereus](https://github.com/cephalocereus)
 
 
 
