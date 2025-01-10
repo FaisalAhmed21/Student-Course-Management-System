@@ -1,5 +1,8 @@
 # Student-Course-Management-System
 
+## Group Members
+[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [cephalocereus](https://github.com/cephalocereus)
+
 ## Abstract
 
 This project introduces a Student Course Management System crafted in EMU 8086 assembly language, offering a streamlined and meticulously structured approach to course registration and management. Designed with a role-based user hierarchy, the system delivers specialized functionalities tailored to both students and advisors, ensuring an intuitive and efficient user experience. Harnessing the power of assembly language, this system exemplifies a low-level, performance-driven solution to address the intricate demands of academic course management. It underscores user-centric design, strict compliance with academic policies, and optimized resource utilization, positioning it as an indispensable asset for educational institutions. This project stands as a testament to the potential of assembly language in delivering sophisticated solutions to complex challenges.
@@ -26,8 +29,7 @@ This project introduces a Student Course Management System crafted in EMU 8086 a
 
 3) Open the asm file in EMU 8086 and click on the emulate option, after the assembler process the code click on the run option.
 
-## Contributors
-[Faisal Ahmed](https://github.com/FaisalAhmed21) | [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [cephalocereus](https://github.com/cephalocereus)
+
 
 
 
