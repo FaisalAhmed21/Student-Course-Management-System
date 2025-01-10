@@ -159,7 +159,7 @@ againtry:
     mov ah, 9
     lea dx, wrong_username
     int 21h  
-    mov cx, 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ; Counter for 7 courses
+    mov cx, 7                                                                                                                                                                                                                                                                                                                                                                                                                                               
     mov si, 0          ; Source index  
     
 taking_input:
